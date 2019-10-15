@@ -1,2 +1,1 @@
-# RandomX
-
+Analysis of RandomX
