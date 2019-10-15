@@ -1,4 +1,4 @@
-# RandomX
+# RandomX (Golang Implementation)
 ### Proposed Use and Analysis of RandomX on the DERO Network
 
 
